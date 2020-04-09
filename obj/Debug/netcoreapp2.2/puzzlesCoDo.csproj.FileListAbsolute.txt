@@ -1,0 +1,11 @@
+C:\Users\Bill\Documents\CodingFiles\CodingDojo\csharp\languageessentials\puzzlesCoDo\bin\Debug\netcoreapp2.2\puzzlesCoDo.deps.json
+C:\Users\Bill\Documents\CodingFiles\CodingDojo\csharp\languageessentials\puzzlesCoDo\bin\Debug\netcoreapp2.2\puzzlesCoDo.runtimeconfig.json
+C:\Users\Bill\Documents\CodingFiles\CodingDojo\csharp\languageessentials\puzzlesCoDo\bin\Debug\netcoreapp2.2\puzzlesCoDo.runtimeconfig.dev.json
+C:\Users\Bill\Documents\CodingFiles\CodingDojo\csharp\languageessentials\puzzlesCoDo\bin\Debug\netcoreapp2.2\puzzlesCoDo.dll
+C:\Users\Bill\Documents\CodingFiles\CodingDojo\csharp\languageessentials\puzzlesCoDo\bin\Debug\netcoreapp2.2\puzzlesCoDo.pdb
+C:\Users\Bill\Documents\CodingFiles\CodingDojo\csharp\languageessentials\puzzlesCoDo\obj\Debug\netcoreapp2.2\puzzlesCoDo.csprojAssemblyReference.cache
+C:\Users\Bill\Documents\CodingFiles\CodingDojo\csharp\languageessentials\puzzlesCoDo\obj\Debug\netcoreapp2.2\puzzlesCoDo.csproj.CoreCompileInputs.cache
+C:\Users\Bill\Documents\CodingFiles\CodingDojo\csharp\languageessentials\puzzlesCoDo\obj\Debug\netcoreapp2.2\puzzlesCoDo.AssemblyInfoInputs.cache
+C:\Users\Bill\Documents\CodingFiles\CodingDojo\csharp\languageessentials\puzzlesCoDo\obj\Debug\netcoreapp2.2\puzzlesCoDo.AssemblyInfo.cs
+C:\Users\Bill\Documents\CodingFiles\CodingDojo\csharp\languageessentials\puzzlesCoDo\obj\Debug\netcoreapp2.2\puzzlesCoDo.dll
+C:\Users\Bill\Documents\CodingFiles\CodingDojo\csharp\languageessentials\puzzlesCoDo\obj\Debug\netcoreapp2.2\puzzlesCoDo.pdb
